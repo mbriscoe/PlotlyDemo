@@ -1,1 +1,1 @@
-# Plotly-Demo
+# PlotlyDemo
